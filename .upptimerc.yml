@@ -3,14 +3,6 @@ owner: groveld
 repo: upptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
   - name: Groveld Services
     url: https://www.groveld.com
   - name: Caddsign
