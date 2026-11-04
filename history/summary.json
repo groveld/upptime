@@ -22,17 +22,17 @@
     "url": "https://www.caddsign.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.caddsign.nl.ico",
     "slug": "caddsign",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1700,
-    "timeDay": 642,
-    "timeWeek": 650,
-    "timeMonth": 638,
-    "timeYear": 1700,
+    "time": 1678,
+    "timeDay": 439,
+    "timeWeek": 598,
+    "timeMonth": 626,
+    "timeYear": 1678,
     "dailyMinutesDown": {}
   }
 ]
